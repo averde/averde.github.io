@@ -1,0 +1,36 @@
+# Site settings
+title: Luis Miguel Montilla
+email: luismmontilla@gmail.com
+url: https://luismmontilla.github.io/
+description: Welcome to my humble website! I'm a coral reef ecologist. Here you will find things related mostly to my research and science communication projects.
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Luis Miguel Montilla
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/luismmontilla
+  - title: instagram
+    url: https://www.instagram.com/luismmontilla/
+  - title: orcid
+    url:  https://orcid.org/0000-0002-7079-6775
+  - title: impactstory
+    url: https://profiles.impactstory.org/u/0000-0002-7079-6775
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Luis_Montilla
+  - title: github
+    url: https://github.com/luismmontilla/
+  - title: letterboxd
+    url: https://letterboxd.com/luismmontilla/
+  - title: goodreads
+    url: https://www.goodreads.com/user/show/4669636-luis-miguel
+
+# Build settings
+markdown: kramdown
+permalink: pretty
